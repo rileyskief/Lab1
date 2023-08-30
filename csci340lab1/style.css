@@ -7,8 +7,8 @@ body {
 
 h1 {
 	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color: green;
+  	font-family: Palatino, 'Palatino Linotype', serif;
+  	color: green;
 }
 
 h2 {
@@ -16,16 +16,17 @@ h2 {
 }
 
 .nav {
-  font-size: 2rem; 
+	font-size: 20px; 
 }
 
 p {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  padding: 250px 0;
-	margin: 30px;
-  background-image: url("https://images.squarespace-cdn.com/content/v1/5c3918f01aef1dcbdb603b67/1645044245558-60PL8CYMM74LBFDO6DFH/Jellyfish.jpg?format=1500w");
-  background-size: cover;
-  color: #ffffff
+	font-size: 30px;
+  	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  	padding: 250px 0;
+		margin: 30px;
+  	background-image: url("https://images.squarespace-cdn.com/content/v1/5c3918f01aef1dcbdb603b67/1645044245558-60PL8CYMM74LBFDO6DFH/Jellyfish.jpg?format=1500w");
+  	background-size: cover;
+  	color: #ffffff
 }
 
 .container {
@@ -35,7 +36,7 @@ p {
 }
 
 #footer {
-  font-size: 0.75rem;
+	font-size: 0.75rem;
 }
 
 
