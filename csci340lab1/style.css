@@ -19,20 +19,15 @@ h2 {
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
+.footer {
+  font-size: 1rem;
+}
+
 p {
 	font-size: 3rem;
 	padding: 150px 0;
 		margin: 50px;
   	background-image: url("https://images.squarespace-cdn.com/content/v1/5c3918f01aef1dcbdb603b67/1645044245558-60PL8CYMM74LBFDO6DFH/Jellyfish.jpg?format=1500w");
 	background-size: cover;
-  	color: #888888
-}
-
-/* .container {
-	color: orange;
-	font-size: 1.25em;
-} */
-
-.footer {
-  font-size: 1rem;
+  	color: #7FFFD4
 }
