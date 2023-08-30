@@ -18,6 +18,11 @@ h2 {
 .nav {
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
+.container {
+	color: orange;
+	font-size: 1.25em;
+	text-decoration: none;
+}
 
 p {
 	font-size: 3rem;
