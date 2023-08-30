@@ -1,20 +1,3 @@
-/* h1 {
-	font-family: Georgia, serif;
-	color: purple;
-}
-.nav {
-	font-family: Helvitica, serif;
-	color: red;
-}
-.container {
-	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	padding: 200px 0;
-	margin: 250px;
-  	background-image: url("https://images.squarespace-cdn.com/content/v1/5c3918f01aef1dcbdb603b67/1645044245558-60PL8CYMM74LBFDO6DFH/Jellyfish.jpg?format=1500w");
-  	background-size: cover;
-  	color: orange;
-}
- */
 body {
 	height: 100%;
 	margin: 0;
@@ -24,8 +7,8 @@ body {
 
 h1 {
 	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(216,218,190);
+	font-family: Palatino, 'Palatino Linotype', serif;
+	color: rgb(216,218,190);
 }
 
 h2 {
@@ -33,17 +16,16 @@ h2 {
 }
 
 .nav {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  padding: 250px 0;
-	margin: 30px;
-  background-image: url("https://images.squarespace-cdn.com/content/v1/5c3918f01aef1dcbdb603b67/1645044245558-60PL8CYMM74LBFDO6DFH/Jellyfish.jpg?format=1500w");
-  background-size: cover;
-  color: #ffffff
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
-
 p {
-  font-size: 2rem; 
+	font-size: 2rem;
+	padding: 250px 0;
+		margin: 30px;
+  	background-image: url("https://images.squarespace-cdn.com/content/v1/5c3918f01aef1dcbdb603b67/1645044245558-60PL8CYMM74LBFDO6DFH/Jellyfish.jpg?format=1500w");
+  	background-size: cover;
+  	color: #ffffff
 }
 
 .container {
