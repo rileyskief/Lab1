@@ -24,7 +24,7 @@ p {
 	padding: 150px 0;
 		margin: 50px;
   	background-image: url("https://m.media-amazon.com/images/M/MV5BMjM3NTE2MDg0OV5BMl5BanBnXkFtZTgwMjg2MjEzMjE@._V1_.jpg");
-/*   	background-size: cover; */
+	background-size: cover;
   	color: #888888
 }
 
